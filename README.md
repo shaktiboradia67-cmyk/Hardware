@@ -9,3 +9,6 @@ Create a comparison table showing the main differences between HDD and SSD stora
   Speed                                     Slower                                         Much faster
   Durablity                             Less durable because                          More durable and shock-
                                          it has moving parsts                          resistant
+Storage Capacity                     Usaually offers larger capacity at               Usually costs more per GB
+                                      a lower cost
+Typical use                                       
