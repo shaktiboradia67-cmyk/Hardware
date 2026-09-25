@@ -3,17 +3,14 @@
 ![Image 4](./WhatsApp%20Image%202026-09-24%20at%205.53.14%20PM.jpeg)
 
 # Create a comparison table showing the main differences between HDD and SSD storage in terms of speed, durability, and typical use cases.Hint:</strong> Think about which one is faster, which is more shock-resistant, and where you would usually find each type (laptop, gaming PC, etc.).</em>
-  feature                               HDD(Hard disk Drive)                          SSD(Solid State Drive)
-   Speed                                     Slower                                         Much faster
-  Durablity                             Less durable because                          More durable and shock-
-                                         it has moving parsts                          resistant
-Storage Capacity                     Usaually offers larger capacity at               Usually costs more per GB
-                                      a lower cost
-Typical use                          Bulk storage,desktop,backups                    Laptop,gaming PCs, fast boot drives
-Gaming                                Longer loading times                            Faster game loading and smoother
-                                                                                       performance
-Noise                                  Can make mechanical noise                         Silent
-Best For                                Large,inexpesive storage                      Speed,portability,and performance
+  | Feature | HDD | SSD |
+|---|---|---|
+| Speed | Slower | Faster |
+| Durability | Less shock-resistant | More shock-resistant |
+| Storage Capacity | Usually larger | Usually smaller |
+| Noise | Makes mechanical noise | Silent |
+| Gaming | Longer loading times | Faster loading times |
+| Best For | Bulk storage, backups | Gaming, laptops, fast performance |
 HDDs and SSDs are both storage devices, but they differ in speed, durability, and typical uses. SSDs are much faster than HDDs because they use flash memory and have no moving parts, while HDDs use spinning magnetic disks. SSDs are also more durable and shock-resistant, making them better suited for laptops and portable devices. HDDs are more sensitive to physical shocks because of their moving parts. SSDs are commonly used in modern laptops, gaming PCs, and high-performance computers where fast loading times are important, while HDDs are often used for desktops, large-capacity storage, backups, and storing large amounts of data at a lower cost.
 
 # Write a short explanation (2-3 sentences each) describing the role of the CPU, RAM, and GPU in running a game like PUBG or Free Fire on a PC.
